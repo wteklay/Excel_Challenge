@@ -46,7 +46,7 @@ The Skewness and Kurtosis values of both outcomes [2.18 Skew/ 4.97 Kurt, **succe
 
 The median values of successful and failed outcome backers are 201 and 114.5, respectively. 
 
-There is more variability with successful campaigns because the variance (*σ^2* ) of successful outcome backers is greater than the variance of failed outcome backers [ 1606216.6 > 924113.46 ] because the number of backers that funded successful campaigns varied greatly as opposed to backers that funded failed campaigns. 
+There is more variability with successful campaigns because the variance (*σ^2* ) of successful outcome backers is greater than the variance of failed outcome backers [ 1606216.6 > 924113.46 ]. The number of backers that funded successful campaigns varied greatly as opposed to backers that funded failed campaigns. 
 
 
 
