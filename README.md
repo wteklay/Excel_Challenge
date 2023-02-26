@@ -16,7 +16,7 @@ Based on the analysis of **Outcomes based on goals**, campaigns that aimed to ra
 Based on the analysis of **Outcomes based on category** and **Outcomes based on subcategory**, the *technology* category with a subcategory of *web* appears to be the most successful, with a ratio of 2:1 between successful (including live) to failed (including canceled) technology campaigns, and a ratio of almost 3:1 between successful and failed web subcategory campaigns. In contrast, food campaigns are the least successful, where more than half of the launched campaigns failed with a ratio of 0.91. 
 
 ### Analysis of Outcomes Based on Launch Date
-![](Images/Outcome_launch date.png)
+![]
 
 ### Analysis of Outcomes Based on Goals
 ![](https://user-images.githubusercontent.com/85447751/139602788-b5a6ae08-86ec-4369-8c1e-9082890d6d69.png)
@@ -25,7 +25,7 @@ Based on the analysis of **Outcomes based on category** and **Outcomes based on 
 ![]
 
 ### Analysis of Outcome Based on Subcategory
-![https://github.com/wteklay/Excel_Challenge/blob/9346fd13f550e4ffe61489eda6de80a9342d9090/Excel%20Challenge/Images/Outcome_subcategory.png]
+!(https://github.com/wteklay/Excel_Challenge/blob/9346fd13f550e4ffe61489eda6de80a9342d9090/Excel%20Challenge/Images/Outcome_subcategory.png)
 
 ## Limitations
 Data does not measure or report the staffers hired nor the process behind securing pledges to fund campaigns. Understanding such external factors can help control mediating factors using statistical computations, minimizing the chances of a **Type I error**. 
@@ -41,7 +41,7 @@ Outcomes based on country
 A descriptive summary of the number of successful campaign backers vs the number of failed campaign backers can be explored for further quantitative metrics. 
 
 ###Table
-![https://github.com/wteklay/Excel_Challenge/blob/a712a7a25e825fa7c9329cf3a1e5d4ac7598f88f/Excel%20Challenge/Images/Table1.png]
+![](
 
 The Skewness and Kurtosis values of both outcomes [2.18 Skew/ 4.97 Kurt, **successful**: 2.70 Skew/8.80 Kurt, **failed**] indicates that the dataset is not normally distributed but is rather positively skewed with high Kurtosis or a “pointy” curve. Therefore, the **median** would better summarize the data since it is less affected by outliers and skewed data. 
 
