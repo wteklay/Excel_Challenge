@@ -8,7 +8,7 @@ The project will consist of four visuals titled **Outcomes based on launch date,
 ## Analysis
 Four analyses with corresponding visuals are performed as described below. **Outcomes based on launch date** is constructed by creating a pivot table from the raw dataset *Crowdfunding* and by graphing a line chart to see the correlation between campaign outcomes and launch dates. Date defined by months is plotted on the x-axis, and the count of total successful, failed, and canceled outcomes are plotted on the y-axis. **Outcomes based on funding goals** obtained by pooling raw data and computing the percentage of successful, failed, and canceled projects on the Y-axis and the range of funding goals on the X-axis by a factor of $5,000. Similarity, **Outcomes based on category**, and **Outcomes based on subcategory**, are analyzed by creating a stacked-column pivot chart from the Crowdfunding dataset. **The results are below**.  
 
-##Results
+## Results
 Based on the analysis of **Outcomes based on launch Date**, *July* appears to feature the most successful campaigns, while *January* and *August* feature the most failed campaigns. One should consider launching a campaign between the months of May-July as the trend of successful campaigns increases within those months. 
 
 Based on the analysis of **Outcomes based on goals**, campaigns that aimed to raise between *15K-25K* were the most successful (100%), while campaigns that aimed to raise between 1K – 5K were 83% successful. Simultaneously, campaigns that aimed to raise between 10K – 15K were the least successful. 
