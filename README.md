@@ -22,7 +22,7 @@ Based on the analysis of **Outcomes based on category** and **Outcomes based on 
 ![](https://github.com/wteklay/Excel_Challenge/blob/e97815698bcbfa68bd563f76cee495d70f7bef40/Excel%20Challenge/Images/Outcome_goal.png)
 
 ### Analysis of Outcome Based on Category
-![](
+![](https://github.com/wteklay/Excel_Challenge/blob/8c1a6cff56e1fc918255dd7b64f15f92acc5ae4d/Excel%20Challenge/Images/Outcome_category.png)
 
 ### Analysis of Outcome Based on Subcategory
 ![](
