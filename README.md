@@ -40,7 +40,6 @@ Outcomes based on country
 ## Summary statistics
 A descriptive summary of the number of successful campaign backers vs the number of failed campaign backers can be explored for further quantitative metrics. 
 
-###Table
 ![](https://github.com/wteklay/Excel_Challenge/blob/0752bc466f5c47c41533b219832f3db069645275/Excel%20Challenge/Images/Table1.png)
 
 The Skewness and Kurtosis values of both outcomes [2.18 Skew/ 4.97 Kurt, **successful**: 2.70 Skew/8.80 Kurt, **failed**] indicates that the dataset is not normally distributed but is rather positively skewed with high Kurtosis or a “pointy” curve. Therefore, the **median** would better summarize the data since it is less affected by outliers and skewed data. 
