@@ -19,13 +19,13 @@ Based on the analysis of **Outcomes based on category** and **Outcomes based on 
 ![](https://github.com/wteklay/Excel_Challenge/blob/0f2c3e1c55d0d81a780eaf4a6b2db5a194a7fc2b/Excel%20Challenge/Images/Outcome_launch%20date.png)
 
 ### Analysis of Outcomes Based on Goals
-![]
+![](https://github.com/wteklay/Excel_Challenge/blob/e97815698bcbfa68bd563f76cee495d70f7bef40/Excel%20Challenge/Images/Outcome_goal.png)
 
 ### Analysis of Outcome Based on Category
-![]
+![](
 
 ### Analysis of Outcome Based on Subcategory
-!(https://github.com/wteklay/Excel_Challenge/blob/9346fd13f550e4ffe61489eda6de80a9342d9090/Excel%20Challenge/Images/Outcome_subcategory.png)
+![](
 
 ## Limitations
 Data does not measure or report the staffers hired nor the process behind securing pledges to fund campaigns. Understanding such external factors can help control mediating factors using statistical computations, minimizing the chances of a **Type I error**. 
