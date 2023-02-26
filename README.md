@@ -16,10 +16,10 @@ Based on the analysis of **Outcomes based on goals**, campaigns that aimed to ra
 Based on the analysis of **Outcomes based on category** and **Outcomes based on subcategory**, the *technology* category with a subcategory of *web* appears to be the most successful, with a ratio of 2:1 between successful (including live) to failed (including canceled) technology campaigns, and a ratio of almost 3:1 between successful and failed web subcategory campaigns. In contrast, food campaigns are the least successful, where more than half of the launched campaigns failed with a ratio of 0.91. 
 
 ### Analysis of Outcomes Based on Launch Date
-![]
+![](https://github.com/wteklay/Excel_Challenge/blob/0f2c3e1c55d0d81a780eaf4a6b2db5a194a7fc2b/Excel%20Challenge/Images/Outcome_launch%20date.png)
 
 ### Analysis of Outcomes Based on Goals
-![](https://user-images.githubusercontent.com/85447751/139602788-b5a6ae08-86ec-4369-8c1e-9082890d6d69.png)
+![]
 
 ### Analysis of Outcome Based on Category
 ![]
